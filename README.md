@@ -60,13 +60,13 @@ PRODIGY_ML_04/
 ## Output Screenshots
 
 ### Dataset Loading
-![Output 1] (output1.png)
+![Output 1](outputs/output1.png)
 
 ### Model Training Result
-![Output 2] (output2.png)
+![Output 2](outputs/output2.png)
 
 ### Accuracy Graph
-![Output 3] (output3.png)
+![Output 3](outputs/output3.png)
 
 ---
 
